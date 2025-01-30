@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "MATRIX SUM CALCILATOR.C": "cpp",
+        "iostream": "cpp",
+        "GAME.C": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
